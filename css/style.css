@@ -8,3 +8,23 @@ main>.container {
     bottom: 0;
     width: 100%;
 }
+
+.minheight{
+    min-height: 75vh;
+}
+
+.heroText{
+    font-family: modesto-open-shadow, sans-serif;
+    font-family: 'Rampart One', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: yellow;
+}
+
+.bgImage {
+    background-image: url("/img/gridsbg.png");
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+}
